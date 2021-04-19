@@ -1,1 +1,1 @@
-# ifSMART
+# ifSMART Jr.
