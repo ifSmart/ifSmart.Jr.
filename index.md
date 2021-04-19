@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ifSMART Jr.
 
 You can use the [editor on GitHub](https://github.com/ifSMART/ifSMART/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
